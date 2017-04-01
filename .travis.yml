@@ -17,4 +17,4 @@ deploy:
   api_key:
     secure: "46d1d6da-8ea5-4ac2-98ad-a09b39295587"
   app:
-    dev: weather-service-dev
+    master: weather-service-dev
